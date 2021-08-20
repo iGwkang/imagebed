@@ -24,7 +24,7 @@
     ![image](https://user-images.githubusercontent.com/35400668/130176528-83b4ae92-818d-4eb2-8711-2f5fdffa7946.png)
 
 
-- 打开配置文件
+- 打开Typora配置文件
 
     ![Untitled](https://gitee.com/Gwkang/image-host/raw/master/images/2021-08-18_17:12:14.png)
 
